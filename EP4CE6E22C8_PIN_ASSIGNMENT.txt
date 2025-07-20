@@ -1,0 +1,18 @@
+EP4CE6E22C8
+18.1.0 Build 625 09/12/2018 SJ Lite Edition
+		
+50MHz	Input	PIN_23
+LED[7]	Output	PIN_106
+LED[6]	Output	PIN_105
+LED[5]	Output	PIN_104
+LED[4]	Output	PIN_103
+LED[3]	Output	PIN_101
+LED[2]	Output	PIN_100
+LED[1]	Output	PIN_99
+LED[0]	Output	PIN_98
+Rx	Input	PIN_137
+SCL	Bidir	PIN_120
+SDA	Bidir	PIN_119
+SW1	Input	PIN_7
+SW3	Input	PIN_10
+Tx	Output	PIN_141
